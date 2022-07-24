@@ -1,25 +1,25 @@
 # MATLAB Onramp
 
-- Vectors and Matrices: 
+- [ ] Vectors and Matrices: 
     - Create MATLAB variables that contain multiple elements.
-- Indexing into and Modifyin Arrays: 
+- [ ] Indexing into and Modifyin Arrays: 
     - Use indexing to extract and modify rows, columns, and elements of MATLAB arrays.
-- Array Calculations:
+- [ ]  Array Calculations:
     - Perform calculations on entire arrays at once. 
-- Calling Functions:
+- [ ]  Calling Functions:
     - Call functions to obtain multiple outputs. 
-- Plotting Data:
+- [ ]  Plotting Data:
     - Visualize variables using MATLAB's plotting functions. 
-- Importing Data:
+- [ ] Importing Data:
     - Bring data from external files into MATLAB. 
-- Logical Arrays:
+- [ ]  Logical Arrays:
     - Use logical expressions to help you to extract elements of interest from MATLAB arrays. 
-- Programming:
+- [ ]  Programming:
     - Write programs that execute code based upon some condition. 
-- Final Project:
+- [ ] Final Project:
     - Bring together concepts that you have learned with a project. 
-    - Stellar Motion
+    - Stellar Motion I
     - Stellar Motion II
-    - You can find the source of txt file on this [website](http://userpages.irap.omp.eu/~jleborgne/stelib_web2005/asfiles/HD94028_moy.txt
+    - You can find the source of `HD94028_moy.txt` file on this [website](http://userpages.irap.omp.eu/~jleborgne/stelib_web2005/asfiles/HD94028_moy.txt
  "HD94028")
  
